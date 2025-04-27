@@ -44,8 +44,8 @@ This project involves creating a file integrity monitoring and detection system 
    - The `CHAT_ID` is the ID of the Telegram chat or group where the alerts will be sent.
 
 ```python
-TELEGRAM_TOKEN = "7654403196:AAFXA6awlVLWRJG3r02SxvAXtZml8nwk378"  # Replace with your Telegram Bot Token
-CHAT_ID = "1394740459"  # Replace with your Telegram Chat ID
+TELEGRAM_TOKEN = "YOUR TELEGRAM TOKEN  # Replace with your Telegram Bot Token
+CHAT_ID = "CHATID"  # Replace with your Telegram Chat ID
 ```
 
 3. **Directory to Monitor**
